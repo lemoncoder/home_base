@@ -1,2 +1,2 @@
 # home_base
-Notes 
+Notes and other things to keep track of.  Just practicing navigating around GitHub.
